@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70254" started-at="2020-02-26T09:08:07Z" finished-at="2020-02-26T09:09:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70254" started-at="2020-02-26T09:08:07Z" finished-at="2020-02-26T09:09:17Z">
+      <class name="testCases.Scroll">
+        <test-method status="PASS" signature="scroll()[pri:0, instance:testCases.Scroll@5702b3b1]" name="scroll" duration-ms="70186" started-at="2020-02-26T09:08:07Z" finished-at="2020-02-26T09:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+      </class> <!-- testCases.Scroll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
